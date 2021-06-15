@@ -1,2 +1,3 @@
-# Prak-PBO-Tugas-CRUD
-Tugas CRUD
+Prak PBO
+Nama : Dhiemas Ady Kusuma Wardana
+Nim : 123190116
